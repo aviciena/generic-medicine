@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Generic Medicine</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="details">Details</string>
+    <string name="about_name">Ibnu</string>
+    <string name="about_email">aviciena.siena@gmail.com</string>
+    <string name="description">Deskripsi Obat</string>
+    <string name="type">Golongan</string>
+    <string name="category">Kategori</string>
+    <string name="advantage">Manfaat</string>
+    <string name="consumed_by">Dikonsumsi oleh</string>
+    <string name="ingredients">Bahan Aktif</string>
+    <string name="shape">Bentuk</string>
+    <string name="more_details">More Details</string>
+</resources>

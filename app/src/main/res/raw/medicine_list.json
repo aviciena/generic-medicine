@@ -1,0 +1,309 @@
+{
+  "data": [
+    {
+      "type": "Analgesik, Antipiretik, Antiinflamasi nonsteroid, Antipirai",
+      "list": [
+        {
+          "name": "Acetosal",
+          "description": "Acetosal atau aspirin adalah obat pengencer darah atau obat yang digunakan untuk mencegah penggumpalan darah. Sebagai pengencer darah, aspirin digunakan pada penderita penyakit jantung koroner, serangan jantung, penyakit arteri perifer, atau stroke. Selain mencegah penggumpalan darah, aspirin merupakan obat untuk mengurangi rasa sakit dan menurunkan demam. Perlu diingat, sebaiknya konsumsi aspirin setelah makan, karena obat ini dapat menimbulkan sakit maag",
+          "type": "Antiplatelet & obat antiinflamasi nonsteroid (OAINS)",
+          "category": "Obat resep dan obat bebas",
+          "advantage": [
+            "Mencegah penggumpalan darah, menghilangkan rasa sakit,meredakan pembengkakan, dan menurunkan demam"
+          ],
+          "consumed_by": "Dewasa",
+          "ingredients": "Asam asetilsalisilat (acetylsalicylic acid)",
+          "shape": "Tablet",
+          "images": [
+            "acetosal/image1.png",
+            "acetosal/image2.png"
+          ],
+          "link": "https://www.alodokter.com/aspirin"
+        },
+        {
+          "name": "Allopurinol",
+          "description": "Allopurinol adalah obat yang digunakan untuk menurunkan kadar asam urat di dalam darah. Selain karena pola makan yang kurang sehat, kadar asam urat juga bisa naik akibat pengobatan kemoterapi pada penderita kanker. Kadar asam urat yang tinggi tidak hanya dapat menyebabkan penyakit asam urat atau gout, namun juga bisa menyebabkan pembentukan batu ginjal.",
+          "type": "Penghambat xanthine-oxidase",
+          "category": "Obat resep",
+          "advantage": [
+            "Mencegah gout dan pembentukan batu ginjal tertentu dengan menurunkan kadar asam urat yang tinggi.",
+            "Mencegah peningkatan kadar asam urat pada pasien kanker yang menjalani kemoterapi"
+          ],
+          "consumed_by": "Dewasa dan anak-anak",
+          "ingredients": "-",
+          "shape": "Tablet dan kapsul",
+          "images": [
+            "allopurinol/image1.png",
+            "allopurinol/image2.png"
+          ],
+          "link": "https://www.alodokter.com/allopurinol"
+        },
+        {
+          "name": "Asam Mefenamat",
+          "description": "Asam mefenamat adalah salah satu jenis obat antiinflamasi nonsteroid (NSAIDs). Obat ini berfungsi meredakan rasa sakit tingkat ringan hingga menengah, serta mengurangi peradangan.\nContoh rasa sakit akibat peradangan yang umumnya dapat diatasi dengan asam mefanamat adalah arthritis, nyeri menstruasi, serta nyeri setelah operasi. Selain mengatasi nyeri menstruasi, obat ini juga dapat digunakan untuk mengurangi volume perdarahan yang parah saat menstruasi.\nAsam mefenamat berfungsi menghambat enzim yang memproduksi prostaglandin. Prostaglandin adalah senyawa yang dilepas tubuh dan menyebabkan rasa sakit serta reaksi peradangan",
+          "type": "Antiinflamasi nonsteroid",
+          "category": "Obat resep",
+          "advantage": [
+            "Meredakan rasa sakit dan peradangan"
+          ],
+          "consumed_by": "Dewasa dan anak-anak di atas 12 tahun",
+          "ingredients": "-",
+          "shape": "Tablet, kapsul, sirup",
+          "images": [
+            "asam_mefenamat/image1.png"
+          ],
+          "link": "https://www.alodokter.com/asam-mefenamat"
+        }
+      ]
+    },
+    {
+      "type": "Antialergi dan Obat untuk Anafilaksis",
+      "list": [
+        {
+          "name": "Cetirizine",
+          "description": "Cetirizine adalah obat golongan antihistamin yang dapat digunakan untuk mengatasi gejala-gejala alergi, sseperti pilek, hidung tersumbat, mata berair, bersin-bersin, rasa gatal pada mata atau hidung, serta ruam pada kulit.\nCetirizine bekerja dengan cara menghalangi kerja senyawa histamin yang diproduksi oleh tubuh. Senyawa inilah yang menyebabkan gejala alergi. Meskipun begitu, cetirizine tidak dapat digunakan untuk mencegah biduran atau untuk mencegah dan mengatasi reaksi alergi yang parah seperti syok anafilaktik.",
+          "type": "Antihistamin (antialergi)",
+          "category": "Obat resep",
+          "advantage": [
+            "Meredakan gejala alergi"
+          ],
+          "consumed_by": "Dewasa dan anak-anak di atas usia 2 tahun",
+          "ingredients": "-",
+          "shape": "Tablet, kapsul, tablet kunyah, serbuk larut (puyer), sirop",
+          "images": [
+            "cetirizine/image1.png",
+            "cetirizine/image2.png",
+            "cetirizine/image3.png"
+          ],
+          "link": "https://www.alodokter.com/cetirizine"
+        },
+        {
+          "name": "Dexamethasone",
+          "description": "Dexamethasone merupakan kelompok obat kortikosteroid. Obat ini bekerja dengan cara mencegah pelepasan zat-zat di dalam tubuh yang menyebabkan peradangan.\nDexamethasone digunakan untuk menangani sejumlah kondisi, seperti penyakit autoimun (misalnya sarkoidosis dan lupus), penyakit peradangan pada usus (misalnya ulcerative colitis dan penyakit Crohn), beberapa jenis penyakit kanker, serta alergi.\nDexamethasone juga digunakan untuk mengatasi mual dan muntah akibat kemoterapi, mengobati hiperplasia adrenal kongenital, serta digunakan untuk mendiagnosis sindrom Cushing.",
+          "type": "Kortikosteroid",
+          "category": "Obat resep",
+          "advantage": [
+            "Mengatasi alergi dan peradangan, meredakan pembengkakan otak, mendiagnosis sindrom Cushing, serta mengatasi edema pada makula, mual dan muntah akibat kemoterapi, dan hiperplasia adrenal kongenital"
+          ],
+          "consumed_by": "Dewasa dan anak-anak",
+          "ingredients": "-",
+          "shape": "Tablet, sirop, suntik, dan infus",
+          "images": [
+            "dexamethasone/image1.png",
+            "dexamethasone/image2.png",
+            "dexamethasone/image3.png"
+          ],
+          "link": "https://www.alodokter.com/dexamethasone"
+        },
+        {
+          "name": "Diphenhydramine",
+          "description": "Diphenhydramine adalah obat yang digunakan untuk meredakan reaksi alergi pada tubuh, seperti mata merah, iritasi, gatal, dan berair; bersin-bersin, serta pilek.\nDiphenhydramine terkadang digunakan untuk mengatasi insomnia jangka pendek, namun manfaat dan risikonya masih dipertanyakan. Bahkan konsumsi diphenhydramine rutin untuk mengatasi insomnia dapat menurunkan kualitas tidur, serta menimbulkan rasa kantuk di siang hari.\nDiphenhydramine merupakan golongan obat antihistamin. Obat ini bekerja dengan cara menghentikan atau memblokir aksi histamin, yaitu zat kimia alami dalam tubuh yang menyebabkan gejala alergi.",
+          "type": "Obat bebas",
+          "category": "Antihistamin",
+          "advantage": [
+            "Meredakan gejala alergi",
+            "Meredakan batuk yang disebabkan iritasi tenggorokan ringan atau saluran pernapasan.",
+            "Mencegah dan mengobati mabuk perjalanan.",
+            "Mengendalikan gejala pada penyakit Parkinson, yaitu kesulitan dalam bergerak, mengendalikan otot, dan menjaga keseimbangan; atau untuk mengatasi keluhan gangguan pergerakan yang disebabkan efek samping dari suatu pengobatan."
+          ],
+          "consumed_by": "Dewasa dan anak-anak ≥ 2 tahun",
+          "ingredients": "-",
+          "shape": "Tablet, kapsul, sirup, suntik",
+          "images": [
+            "diphenhydramine/image1.png",
+            "diphenhydramine/image2.png",
+            "diphenhydramine/image3.png"
+          ],
+          "link": "https://www.alodokter.com/diphenhydramine"
+        }
+      ]
+    },
+    {
+      "type": "Antidot dan Obat lain untuk Keracunan",
+      "list": [
+        {
+          "name": "Kalsium Glukonat",
+          "description": "Kasium glukonat atau calcium gluconate adalah obat yang  digunakan untuk mencegah atau mengobati kadar kalsium darah yang rendah untuk orang-orang yang tidak punya kalsium yang cukup dari makanan yang mereka konsumsi.",
+          "type": "-",
+          "category": "-",
+          "advantage": [
+            "Mengobati kekurangan kalsium yang disebabkan oleh pengeroposan tulang (osteoporosis)",
+            "Mengobati kekurangan kalsium yang disebabkan oleh lemah tulang (rakitis)",
+            "Mengurangi kinerja kelenjar paratiroid (hypoparathyroidism)",
+            "Beberapa masalah otot (latent tetany)"
+          ],
+          "consumed_by": "Dewasa dan anak-anak ≥ 1 tahun",
+          "ingredients": "-",
+          "shape": "Tablet, Cairan suntik atau infus, Bubuk",
+          "images": [
+            "kalsium_glukonat/image1.png",
+            "kalsium_glukonat/image2.png",
+            "kalsium_glukonat/image3.png"
+          ],
+          "link": "https://hellosehat.com/obat/calcium-gluconate/"
+        },
+        {
+          "name": "Magnesium Sulfat",
+          "description": "Magnesium sulfat adalah senyawa mineral yang digunakan untuk mengobati kadar magnesium rendah dalam tubuh (hipomagnesemia). Magnesium sendiri merupakan mineral alami yang berperan penting dalam perkembangan struktur tulang, menggerakkan otot, dan pengatur sistem saraf. Rendahnya kadar magnesium dalam tubuh dapat disebabkan oleh malnutrisi, diare kronis, tingginya kadar kalsium dalam darah, diabetes tipe 2, dan konsumsi minuman beralkohol secara berlebihan.\nMagnesium sulfat juga digunakan untuk mencegah dan mengatasi kejang pada eklamsia, serta mengobati torsades de pointes, yaitu salah satu jenis gangguan irama jantung.  Magnesium sulfat bekerja dengan cara mengganti magnesium yang hilang dalam tubuh dan meningkatkan kadar air dalam usus.",
+          "type": "Antikonvulsan, elektrolit tambahan",
+          "category": "Obat resep",
+          "advantage": [
+            "Mengobati hipomagnesemia, mencegah dan mengatasi kejang pada eklamsia, serta mengobati torsades de pointes."
+          ],
+          "consumed_by": "Dewasa dan anak-anak",
+          "ingredients": "-",
+          "shape": "Cairan suntik atau infus",
+          "images": [
+            "magnesium_sulfat/image1.png",
+            "magnesium_sulfat/image2.png"
+          ],
+          "link": "https://www.alodokter.com/magnesium-sulfat-mgso4"
+        },
+        {
+          "name": "Natrium Bikarbonat",
+          "description": "Natrium bikarbonat yang juga dikenal dengan baking soda adalah obat yang digunakan untuk menetralkan asam darah (pada keadaan asidosis) dan urine yang terlalu asam. Pada orang-orang yang berisiko, urine yang terlalu asam dapat memicu timbulnya batu ginjal. Selain itu, natrium bikarbonat juga dapat berperan sebagai antasida, yaitu obat yang menetralkan asam lambung",
+          "type": "Urine alkalinization, antasida",
+          "category": "Obat resep",
+          "advantage": [
+            "Menetralisir asam darah, urine yang terlalu asam, dan asam lambung"
+          ],
+          "consumed_by": "Dewasa dan anak-anak berusia 12 tahun ke atas.",
+          "ingredients": "-",
+          "shape": "Tablet, suntik",
+          "images": [
+            "natrium_bikarbonat/image1.png",
+            "natrium_bikarbonat/image2.png",
+            "natrium_bikarbonat/image3.png"
+          ],
+          "link": "https://www.alodokter.com/natrium-bikarbonat"
+        }
+      ]
+    },
+    {
+      "type": "Antiepilepsi – Antikonvulsi",
+      "list": [
+        {
+          "name": "Asam Valproat",
+          "description": "Asam valproat adalah jenis obat yang digunakan untuk mengatasi kejang, terutama yang disebabkan oleh epilepsi. Obat ini bekerja dengan cara memengaruhi keseimbangan senyawa alami di otak atau yang disebut neurotransmiter untuk menghentikan kejang.\nAsam valproat juga digunakan untuk menangani kondisi ketidakstabilan mood atau suasana hati pada penderita gangguan bipolar, terutama fase mania, yaitu fase di mana suasana hati penderita gangguan bipolar menjadi senang berlebihan. Selain itu, asam valproat juga digunakan untuk mencegah migrain.",
+          "type": "Antikonvulsan",
+          "category": "Obat resep",
+          "advantage": [
+            "Menangani kejang akibat epilepsi.",
+            "Menangani kondisi ketidakstabilan mood atau suasana hati.",
+            "Mencegah migrain."
+          ],
+          "consumed_by": "Dewasa dan anak-anak usia di atas 10 tahun",
+          "ingredients": "-",
+          "shape": "Sirop, Tablet",
+          "images": [
+            "asam_valproat/image1.png",
+            "asam_valproat/image2.png",
+            "asam_valproat/image3.png"
+          ],
+          "link": "https://www.alodokter.com/asam-valproat"
+        },
+        {
+          "name": "Diazepam / Valium",
+          "description": "Diazepam adalah salah satu jenis obat benzodiazepine yang dapat memengaruhi sistem saraf otak dan memberikan efek penenang. Diazepam bekerja dengan cara mempengaruhi neurotransmiter, yang berfungsi memancarkan sinyal ke sel otak. Obat ini digunakan untuk mengatasi gangguan kecemasan, insomnia, kejang-kejang, gejala putus alkohol akut, serta digunakan sebagai obat bius sebelum operasi.\nDiazepam tidak disarankan untuk digunakan secara jangka panjang, dan maksimal umumnya hanya sekitar 4 minggu. Efek obat ini bisa bertahan selama beberapa jam atau bahkan beberapa hari setelah dikonsumsi.",
+          "type": "Benzodiazepine",
+          "category": "Obat resep",
+          "advantage": [
+            "Gangguan kecemasan",
+            "Insomnia",
+            "Melemaskan otot kejang",
+            "Kejang karena epilepsi atau kejang demam",
+            "Gejala putus alkohol",
+            "Anestesi"
+          ],
+          "consumed_by": "Dewasa dan anak-anak",
+          "ingredients": "-",
+          "shape": "Tablet, sirop, suntik, supositorial rektal (lewat dubur)",
+          "images": [
+            "diazepam/image1.png",
+            "diazepam/image2.png",
+            "diazepam/image3.png"
+          ],
+          "link": "https://www.alodokter.com/diazepam"
+        },
+        {
+          "name": "Fenitoin",
+          "description": "Phenytoin adalah obat untuk mencegah dan mengontrol mengontrol kejang yang umumnya terjadi pada penderita epilepsi. Epilepsi merupakan penyakit di mana penderitanya mengalami kejang secara berulang. Kejang itu sendiri terjadi karena adanya gangguan pada sinyal listrik di dalam otak, sehingga otot-otot tubuh berkontraksi dan menyebabkan gerak yang tidak terkendali. Phenytoin bekerja dengan menyeimbangkan aliran listrik tersebut, sehingga secara otomatis mengurangi kemunculan gejala kejang",
+          "type": "Antikonvulsan",
+          "category": "Obat resep",
+          "advantage": [
+            "Mengatasi kejang"
+          ],
+          "consumed_by": "Dewasa dan anak-anak",
+          "ingredients": "-",
+          "shape": "Kapsul dan suntik",
+          "images": [
+            "fenitoin/image1.png",
+            "fenitoin/image2.png",
+            "fenitoin/image3.png"
+          ],
+          "link": "https://www.alodokter.com/phenytoin"
+        }
+      ]
+    },
+    {
+      "type": "Anti Infeksi",
+      "list": [
+        {
+          "name": "Acyclovir Oral",
+          "description": "Acyclovir oral adalah obat yang dapat digunakan untuk mengobati infeksi akibat virus, seperti Varicella zoster dan Herpes simplex. Obat ini umumnya dikonsumsi guna mengatasi luka melepuh pada mulut (cold sore), penyakit herpes genital, cacar air, serta cacar api (herpes zoster).\nAcyclovir oral tidak bisa mematikan virus sepenuhnya dari tubuh. Obat ini hanya berfungsi untuk mengurangi risiko perkembangan dan penyebaran virus ke bagian  tubuh lain, serta meminimalisir kemungkinan virus kembali menginfeksi di masa mendatang.\nAcyclovir oral juga berfungsi untuk mencegah infeksi virus pada orang-orang dengan sistem kekabalan tubuh yang rendah. Dari fungsinya tersebut, obat ini dapat mengurangi tingkat keparahan dan lamanya infeksi, mempercepat penyembuhan luka, mencegah pembentukan luka baru, serta mengurangi nyeri atau rasa gatal akibat infeksi.",
+          "type": "Antivirus",
+          "category": "Obat resep",
+          "advantage": [
+            "Mengobati infeksi virus"
+          ],
+          "consumed_by": "Dewasa dan anak-anak",
+          "ingredients": "-",
+          "shape": "Tablet dan sirop",
+          "images": [
+            "acyclovir_oral/image1.png",
+            "acyclovir_oral/image2.png",
+            "acyclovir_oral/image3.png",
+            "acyclovir_oral/image4.png"
+          ],
+          "link": "https://www.alodokter.com/acyclovir-oral"
+        },
+        {
+          "name": "Amikacin",
+          "description": "Amikacin adalah obat golongan antibiotik aminoglikosida yang bermanfaat untuk menangani infeksi akibat bakteri. Obat ini bekerja dengan cara menghambat dan menghentikan pertumbuhan bakteri penyebab infeksi.\nBerikut adalah beberapa infeksi yang dapat diobati dengan amikacin:\n- Infeksi paru-paru (pneumonia)\n- Infeksi saluran kemih (sepsis)\nInfeksi luka operasi\n- Infeksi pada selaput otak (meningitis)\n- Infeksi saluran kemih",
+          "type": "Antibiotik",
+          "category": "Obat resep",
+          "advantage": [
+            "Mengobati infeksi bakteri"
+          ],
+          "consumed_by": "Dewasa dan anak-anak",
+          "ingredients": "-",
+          "shape": "Obat suntik",
+          "images": [
+            "amikacin/image1.png",
+            "amikacin/image2.png",
+            "amikacin/image3.png"
+          ],
+          "link": "https://www.alodokter.com/amikacin"
+        },
+        {
+          "name": "Amoxicillin",
+          "description": "Amoxicillin adalah salah satu jenis antibiotik golongan penisilin yang digunakan untuk mengatasi infeksi berbagai jenis bakteri, seperti infeksi pada saluran pernapasan, saluran kemih, dan telinga. Amoxicillin hanya berfungsi untuk mengobati infeksi bakteri dan tidak bisa mengatasi infeksi yang disebabkan oleh virus, misalnya flu. Obat ini membunuh bakteri dengan cara menghambat pembentukan dinding sel bakteri.",
+          "type": "penisilin",
+          "category": "Obat resep",
+          "advantage": [
+            "Mengatasi infeksi akibat bakteri, terutama pada gigi, saluran  kemih, telinga, hidung, tenggorokan, saluran pernapasan,  saluran pencernaan, dan kelamin (misalnya gonore)."
+          ],
+          "consumed_by": "Dewasa dan anak-anak",
+          "ingredients": "-",
+          "shape": "Kapsul, tablet, sirup, sirup kering, suntik",
+          "images": [
+            "amoxicillin/image1.png",
+            "amoxicillin/image2.png",
+            "amoxicillin/image3.png"
+          ],
+          "link": "https://www.alodokter.com/amoxicillin"
+        }
+      ]
+    }
+  ]
+}
