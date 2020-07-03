@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
         recycleView = findViewById(R.id.medicine_recycle_view)
         recycleView.setHasFixedSize(true)
 
+        //Get data from json mock data and add the data response to array list
         val jsonString = resources.openRawResource(R.raw.medicine_list)
             .bufferedReader().use { it.readText() }
 
@@ -48,6 +49,7 @@ class MainActivity : AppCompatActivity() {
 
         medicineListAdapter.setOnItemClickCallback(object: MedicineListAdapter.OnItemClickCallback {
             override fun onItemClicked(data: Medicine) {
+                //Open the details screen when user tap the item in the list
                 val openDetails = Intent(this@MainActivity, MedicineDetailsActivity::class.java)
                 openDetails.putExtra(MedicineDetailsActivity.DETAILS_KEY, data as Serializable)
                 startActivity(openDetails)
